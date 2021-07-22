@@ -1,132 +1,115 @@
 {
-    "title": "Stackbit DIY Theme",
     "layout_type": "boxed",
     "style": "classic",
     "palette": "green",
     "mode": "light",
     "base_font": "serif",
     "header": {
-        "type": "header",
-        "title": "DIY",
-        "logo": "images/classic/logo.svg",
-        "logo_alt": "DIY logo",
+        "title": "Sustainabiliteens Blog",
+        "logo": "images/Sustainabiliteens icon.png",
+        "logo_alt": "Dark green circle with a triangular plant stem and two leaves inside",
         "has_primary_nav": true,
         "primary_nav_links": [
             {
-                "type": "action",
-                "label": "Features",
-                "url": "/features",
+                "label": "Home",
+                "url": "https://sustainabiliteens.org",
                 "style": "link"
             },
             {
-                "type": "action",
-                "label": "Pricing",
-                "url": "/pricing",
-                "style": "link"
-            },
-            {
-                "type": "action",
                 "label": "About",
                 "url": "/about",
                 "style": "link"
             },
             {
-                "type": "action",
+                "label": "Actions",
+                "url": "https://sustainabiliteens.org/actions",
+                "style": "link"
+            },
+            {
                 "label": "Blog",
                 "url": "/blog",
                 "style": "link"
             },
             {
-                "type": "action",
-                "label": "Style Guide",
-                "url": "/style-guide",
+                "label": "Contact",
+                "url": "https://sustainabiliteens.org/#contact",
                 "style": "link"
             }
         ],
         "has_secondary_nav": true,
         "secondary_nav_links": [
             {
-                "type": "action",
-                "label": "Contact",
-                "url": "/contact",
-                "style": "link"
+                "label": "Donate",
+                "url": "https://sustainabiliteens.org/donate",
+                "style": "secondary",
+                "new_window": true
             },
             {
-                "type": "action",
-                "label": "Get Started",
-                "url": "/pricing",
-                "style": "primary"
+                "label": "Join",
+                "url": "https://sustainabiliteens.org/join",
+                "style": "primary",
+                "new_window": true
             }
         ],
-        "has_anncmnt": true,
+        "has_anncmnt": false,
         "anncmnt_content": "Curabitur ac tellus mattis, tempor ipsum eu, eleifend sapien. **[Learn More](/pricing/)**",
         "anncmnt_align": "left",
         "anncmnt_is_home_only": true,
         "anncmnt_has_close": true,
-        "anncmnt_id": "new-features"
+        "anncmnt_id": "site-transition"
     },
     "footer": {
-        "type": "footer",
-        "logo": "images/classic/logo.svg",
         "logo_alt": "DIY logo",
-        "has_primary_nav": true,
+        "has_primary_nav": false,
         "primary_nav_title": "Company",
         "primary_nav_links": [
             {
-                "type": "action",
                 "label": "About",
                 "url": "/about",
                 "style": "link"
             },
             {
-                "type": "action",
                 "label": "Style Guide",
                 "url": "/style-guide",
                 "style": "link"
             }
         ],
-        "has_secondary_nav": true,
+        "has_secondary_nav": false,
         "secondary_nav_title": "Blog",
         "secondary_nav_links": [
             {
-                "type": "action",
                 "label": "News",
                 "url": "/blog/category/news",
                 "style": "link"
             },
             {
-                "type": "action",
                 "label": "General",
                 "url": "/blog/category/general",
                 "style": "link"
             },
             {
-                "type": "action",
                 "label": "Tutorials",
                 "url": "/blog/category/tutorials",
                 "style": "link"
             }
         ],
-        "has_tertiary_nav": true,
+        "has_tertiary_nav": false,
         "tertiary_nav_title": "Legal",
         "tertiary_nav_links": [
             {
-                "type": "action",
                 "label": "Terms & Conditions",
                 "url": "/terms-conditions",
                 "style": "link"
             },
             {
-                "type": "action",
                 "label": "Privacy Policy",
                 "url": "/privacy-policy",
                 "style": "link"
             }
         ],
-        "has_social": true,
+        "has_social": false,
         "social_links": [
             {
-                "type": "action",
                 "label": "Twitter",
                 "url": "https://twitter.com/",
                 "style": "link",
@@ -136,7 +119,6 @@
                 "new_window": true
             },
             {
-                "type": "action",
                 "label": "GitHub",
                 "url": "https://github.com/",
                 "style": "link",
@@ -146,7 +128,6 @@
                 "new_window": true
             },
             {
-                "type": "action",
                 "label": "LinkedIn",
                 "url": "https://www.linkedin.com/",
                 "style": "link",
@@ -156,7 +137,6 @@
                 "new_window": true
             },
             {
-                "type": "action",
                 "label": "YouTube",
                 "url": "https://www.youtube.com/",
                 "style": "link",
@@ -166,7 +146,6 @@
                 "new_window": true
             },
             {
-                "type": "action",
                 "label": "Vimeo",
                 "url": "https://vimeo.com/",
                 "style": "link",
@@ -175,8 +154,9 @@
                 "icon_position": "center",
                 "new_window": true
             }
-        ],
-        "content": "&copy; Stackbit. All rights reserved. This Jamstack site was created with <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Create yours <a href=\"https://app.stackbit.com/create?theme=diy&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">now</a>"
+        ]
     },
-    "domain": "https://blog-8d998.netlify.app"
+    "title": "Sustainabiliteens + Vote16 BC Blog",
+    "domain": "blog.sustainabiliteens.org",
+    "favicon": "images/icon.png"
 }
