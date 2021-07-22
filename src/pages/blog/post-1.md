@@ -7,7 +7,7 @@ categories: []
 excerpt: ""
 thumb_image: /images/untitled-design.png
 thumb_image_alt: Post 1 placeholder image
-image: images/classic/post-1.png
+image: ""
 image_alt: Post 1 placeholder image
 image_position: right
 seo:
@@ -47,4 +47,8 @@ This is a blog post
 * a
 * list
 
-  * with a subpoint
+  * and a subpoint
+
+
+
+Plus, you can use [this link](https://sustainabiliteens.org)!
