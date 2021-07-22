@@ -113,7 +113,7 @@ sections:
           action.
         media_position: top
         media_width: fifty
-        image: images/about.jpg
+        image: /images/about.jpg
       - type: feature
         title: Our Story
         content: >
