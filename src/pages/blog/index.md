@@ -2,8 +2,14 @@
 title: Blog
 sections:
   - type: hero_section
-    title: Blog
-    subtitle: The optional subtitle
+    title: Sustainabiliteens + Vote16 Blog
+    content: >
+      We are Vote16 BC and Sustainabiliteens, two youth-led activist groups
+      based in "Vancouver" on the traditional, ancestral and unceded territories
+      of the səl̓ilw̓ətaʔɬ, sḵwx̱wú7mesh and xʷməθkʷəy̓əm nations. Join us in
+      this conversation between activists about our movement cultures, our goals
+      for the future, our reflections on the past and much more. Entries are
+      posted weekly.
     align: center
     padding_top: medium
     padding_bottom: none
@@ -20,31 +26,15 @@ sections:
     padding_top: small
     padding_bottom: large
     has_border: true
-  - type: form_section
-    title: Inline Form
-    title_align: center
-    content: Subscribe to our newsletter to make sure you don't miss anything.
-    content_align: center
-    form_position: bottom
-    form_layout: inline
-    form_id: subscribeForm
-    form_action: /thank-you
-    form_fields:
-      - type: form_field
-        input_type: email
-        name: email
-        label: Email
-        default_value: Your email address
-        is_required: true
-    submit_label: Subscribe
-    padding_top: medium
-    padding_bottom: medium
-    has_border: true
-    background_color: secondary
 seo:
-  type: stackbit_page_meta
-  title: Blog
-  description: This is the blog page
+  title: Sustainabiliteens + Vote16 Blog
+  description: >-
+    We are Vote16 BC and Sustainabiliteens, two youth-led activist groups based
+    in Vancouver on the traditional, ancestral and unceded territories of the
+    səl̓ilw̓ətaʔɬ, sḵwx̱wú7mesh and xʷməθkʷəy̓əm nations. Join us in this
+    conversation between activists about our movement cultures, our goals for
+    the future, our reflections on the past and much more. Entries are posted
+    weekly.
   extra:
     - name: 'og:type'
       value: website
