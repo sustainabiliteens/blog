@@ -174,7 +174,7 @@ sections:
           our democracy and lay the foundations for a better world. **Each of us
           has a choice: do we continue with the story we are told, or do we come
           together to shape a new reality?**
-        image: images/van-cty-hall.jpg
+        image: /images/van-city-hall.jpg
         image_alt: >-
           Sustainabiliteens organizers in Vancouver gather outside of City Hall
           in October 2020 to promote the City's Climate Emergency Action Plan,
