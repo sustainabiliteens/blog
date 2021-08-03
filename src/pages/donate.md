@@ -38,7 +38,7 @@ sections:
     background_image_repeat: no-repeat
     type: grid_section
   - type: grid_section
-    title: F
+    title: Frequently
     grid_items:
       - type: grid_item
         title: Lorem ipsum dolor sit amet consectetur?
