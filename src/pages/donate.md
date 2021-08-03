@@ -23,8 +23,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-      - title: Donation Module
-        title_align: left
+      - title_align: left
         content: |
           Embed code goes here
         content_align: left
