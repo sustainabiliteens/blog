@@ -59,9 +59,6 @@ export default class HeroSection extends React.Component {
                 				{_.get(section, 'title', null) && (
                 				<h1 className="hero__title">{_.get(section, 'title', null)}</h1>
                 				)}
-                				{_.get(section, 'subtitle', null) && (
-                				<p className="hero__subtitle">{_.get(section, 'subtitle', null)}</p>
-                				)}
                 				{_.get(section, 'content', null) && (
                 				<div className="hero__copy">
                 					{markdownify(_.get(section, 'content', null))}
