@@ -58,17 +58,8 @@ sections:
       - title: Donation Info
         subtitle: lorem-ipsum
         title_align: left
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: |
+          Write up on why to donate, what funds will be used for, etc.
         content_align: left
         actions: []
         actions_align: left
