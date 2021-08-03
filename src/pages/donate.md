@@ -2,7 +2,7 @@
 title: Donate
 sections:
   - type: hero_section
-    title: Pick Your Plan
+    title: Donate to Sustainabiliteens
     subtitle: Optional hero section subtitle
     align: center
     padding_top: large
