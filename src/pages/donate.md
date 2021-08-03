@@ -56,7 +56,6 @@ sections:
     actions: []
     grid_items:
       - title: Donation Info
-        subtitle: lorem-ipsum
         title_align: left
         content: |
           Write up on why to donate, what funds will be used for, etc.
