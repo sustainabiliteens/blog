@@ -38,7 +38,7 @@ sections:
     background_image_repeat: no-repeat
     type: grid_section
   - type: grid_section
-    title: 'You asked, we answered!'
+    title: F
     grid_items:
       - type: grid_item
         title: Lorem ipsum dolor sit amet consectetur?
