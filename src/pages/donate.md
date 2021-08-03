@@ -51,8 +51,7 @@ sections:
     padding_bottom: medium
     has_border: false
     background_color: secondary
-  - subtitle: lorem-ipsum
-    actions: []
+  - actions: []
     grid_items:
       - title: Donation Info
         title_align: left
