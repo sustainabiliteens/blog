@@ -1,5 +1,5 @@
 ---
-title: Date
+title: Donate
 sections:
   - type: hero_section
     title: Pick Your Plan
