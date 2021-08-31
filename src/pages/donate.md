@@ -26,7 +26,7 @@ sections:
       - title_align: left
         content: |
           var Iframe = React.createClass({     
-  render: function() {
+            render: function() {
     return(         
       <div>          
         <iframe src={this.props.src} height={this.props.height} width={this.props.width}/>         
