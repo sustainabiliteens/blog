@@ -25,9 +25,9 @@ sections:
         type: grid_item
       - title_align: left
         content: |        
-                    <div>          
-                        <iframe src="https://donate-can.keela.co/embed/website-donations1" min-height=500px width=100% frameborder="0"/>         
-                    </div>
+            <div>          
+                <iframe src="https://donate-can.keela.co/embed/website-donations1" min-height=500px width=100% frameborder="0"/>         
+            </div>
         content_align: left
         actions: []
         actions_align: left
