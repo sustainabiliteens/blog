@@ -33,7 +33,7 @@ sections:
                 </div>
                 )
             }
-            });
+        });
 
 ReactDOM.render(
   <Iframe src="http://plnkr.co/" height="500" width="500"/>,
