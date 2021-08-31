@@ -26,7 +26,6 @@ sections:
       - title_align: left
         content: |        
             <div>
-                <script src="https://donate-can.keela.co/js/iframeResizer.min.js" onload="iFrameResize({checkOrigin: false, heightCalculationMethod: 'taggedElement'}, '#keela_ZWCEi8GbBSpGi8yGf')"/>
                 <iframe src="https://donate-can.keela.co/embed/website-donations1" height=100% width=100% frameborder="0"/>         
             </div>
         content_align: left
