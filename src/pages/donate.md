@@ -26,7 +26,7 @@ sections:
       - title_align: left
         content: |        
             <div>
-                <script type="text/javascript" src="https://donate-can.keela.co/js/iframeResizer.min.js" onload="iFrameResize({checkOrigin: false, heightCalculationMethod: 'taggedElement'}, '#keela_ZWCEi8GbBSpGi8yGf')" async>
+                <script type="text/javascript" src="https://donate-can.keela.co/js/iframeResizer.min.js" onload="iFrameResize({checkOrigin: false, heightCalculationMethod: 'taggedElement'}, '#keela_ZWCEi8GbBSpGi8yGf')" async/>
                 <iframe src="https://donate-can.keela.co/embed/website-donations1" height=100% width=100% frameborder="0"/>         
             </div>
         content_align: left
