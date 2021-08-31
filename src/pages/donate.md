@@ -25,7 +25,7 @@ sections:
         type: grid_item
       - title_align: left
         content: |
-          var Iframe = React.createClass({     
+            var Iframe = React.createClass({     
             render: function() {
                 return(         
                 <div>          
@@ -33,7 +33,7 @@ sections:
                 </div>
                 )
             }
-          });
+            });
 
             ReactDOM.render(
             <Iframe src="http://plnkr.co/" height="500" width="500"/>,
