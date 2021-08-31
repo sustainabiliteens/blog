@@ -29,7 +29,7 @@ sections:
                 render: function() {
                     return(         
                     <div>          
-                        <iframe src="https://donate-can.keela.co/embed/website-donations1" min-height=500px width=100%/>         
+                        <iframe src="https://donate-can.keela.co/embed/website-donations1" min-height=500px width=100% frameborder="0"/>         
                     </div>
                     )
                 }
