@@ -35,10 +35,10 @@ sections:
             }
           });
 
-        ReactDOM.render(
-        <Iframe src="http://plnkr.co/" height="500" width="500"/>,
-        document.getElementById('example')
-        );
+            ReactDOM.render(
+            <Iframe src="http://plnkr.co/" height="500" width="500"/>,
+            document.getElementById('example')
+            );
         content_align: left
         actions: []
         actions_align: left
