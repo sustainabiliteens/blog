@@ -78,7 +78,7 @@ sections:
   - title: How to Vote
     features:
       - actions:
-          - label: 1. Register through Elections Canada →
+          - label: 1. Register through Elections Canada
             url: '#'
             style: primary
             has_icon: true
