@@ -111,7 +111,6 @@ sections:
         align: center
         type: feature
       - title: lorem-ipsum
-        subtitle: lorem-ipsum
         content: >-
           ## Lorem ipsum
 
