@@ -77,7 +77,7 @@ sections:
     background_color: secondary
   - title: How to Vote
     features:
-      - title: lorem-ipsum
+      - title: Register to Vote
         subtitle: lorem-ipsum
         actions: []
         image_alt: lorem-ipsum
