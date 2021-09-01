@@ -77,8 +77,7 @@ sections:
     background_color: secondary
   - title: How to Vote
     features:
-      - title: Register to Vote
-        actions:
+      - actions:
           - label: 1. Register through Elections Canada →
             url: '#'
             style: primary
