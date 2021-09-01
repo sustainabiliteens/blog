@@ -111,7 +111,7 @@ sections:
         align: center
         type: feature
       - content: |
-          \-OR-
+          **-OR-**
         actions: []
         image_alt: lorem-ipsum
         media_position: top
