@@ -110,8 +110,7 @@ sections:
         media_width: fifty
         align: center
         type: feature
-      - title: lorem-ipsum
-        content: >-
+      - content: >-
           ## Lorem ipsum
 
 
