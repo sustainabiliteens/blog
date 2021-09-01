@@ -96,7 +96,7 @@ sections:
             new_window: true
             no_follow: false
             type: action
-          - label: '3) Find your '
+          - label: 3) Find your polling place
             url: '#'
             style: link
             has_icon: false
