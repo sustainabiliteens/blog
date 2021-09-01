@@ -46,7 +46,6 @@ sections:
     title: Policy Priorities
   - type: grid_section
     title: Reviews Section
-    subtitle: Grid Section Example
     grid_items:
       - type: grid_item
         content: >-
