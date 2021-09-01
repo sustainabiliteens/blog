@@ -43,6 +43,7 @@ sections:
         image_alt: Happy co-workers
         media_position: right
         media_width: fifty
+    title: Policy Priorities
   - type: grid_section
     title: Reviews Section
     subtitle: Grid Section Example
