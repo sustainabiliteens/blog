@@ -78,7 +78,6 @@ sections:
   - title: How to Vote
     features:
       - title: Register to Vote
-        subtitle: lorem-ipsum
         actions: []
         image_alt: lorem-ipsum
         video_embed_html: >-
