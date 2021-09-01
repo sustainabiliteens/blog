@@ -45,7 +45,7 @@ sections:
         media_width: fifty
     title: Policy Priorities
   - type: grid_section
-    title: Endorsed Candidates
+    title: Endorsements
     grid_items:
       - type: grid_item
         content: >-
