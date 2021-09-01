@@ -79,7 +79,7 @@ sections:
     features:
       - title: Register to Vote
         actions:
-          - label: lorem-ipsum
+          - label: Register through Elections Canada
             url: '#'
             style: primary
             has_icon: false
