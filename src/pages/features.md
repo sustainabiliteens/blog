@@ -2,7 +2,7 @@
 title: Features
 sections:
   - type: hero_section
-    title: Explore Features
+    title: 2021 Federal Election
     subtitle: Features Page Demo
     background_color: primary
   - type: features_section
