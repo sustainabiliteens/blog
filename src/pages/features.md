@@ -87,7 +87,7 @@ sections:
             new_window: true
             no_follow: false
             type: action
-          - label: 2) D
+          - label: '2) '
             url: '#'
             style: link
             has_icon: false
