@@ -74,7 +74,7 @@ sections:
     grid_gap_horiz: medium
     align: center
     background_color: secondary
-  - title: lorem-ipsum
+  - title: How to Vote
     subtitle: lorem-ipsum
     features: []
     feature_padding_vert: medium
