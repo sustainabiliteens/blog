@@ -87,7 +87,7 @@ sections:
             new_window: true
             no_follow: false
             type: action
-          - label: '2) View candidates in '
+          - label: '2) View candidates in your '
             url: '#'
             style: link
             has_icon: false
