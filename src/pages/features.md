@@ -98,7 +98,7 @@ sections:
             type: action
           - label: 3) Find your polling place
             url: '#'
-            style: link
+            style: primary
             has_icon: true
             icon: arrow-right
             icon_position: right
